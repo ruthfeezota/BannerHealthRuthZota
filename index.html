@@ -1,0 +1,89 @@
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Banner Health Assessment Ruth Zota</title>
+    <link rel="stylesheet" href="styles.css">
+ </head>
+ <body>
+    <section>
+        <nav class="navbar">
+            <!-- LOGO -->
+            <img src="./images/Logo.png" class="logo">
+
+            <!-- NAVIGATION MENU -->
+            <ul class="nav-links">
+                <!-- USING CHECKBOX HACK -->
+                <input type="checkbox" id="checkbox_toggle" />
+                <label for="checkbox_toggle" class="hamburger">&#9776;</label>
+
+                <!-- NAVIGATION MENUS -->
+                <div class="menu">
+                    <li><a href="/"><img src="./images/Search.png"></a></li>
+                    <li><a href="/"><img src="./images/ic_bill_pay.png"></a></li>
+                    <li class="services"><a href="/"><img src="./images/Notifications.png"></a></li>
+                </div>
+            </ul>
+        </nav>
+    </section>
+    <section class="hero">
+        <img src="./images/home activities_5145_HR 1-2.png" alt="Hero Image" class="hero-image">
+        <div class="hero-content">
+            <h1 calls="utopia-std">Teaching children about health</h1>
+            <p class="effra">Using all available resources to your advantage</p>
+            <button class="button_slide slide_right">Learn more</button>
+        </div>
+    </section>
+
+    <section class="card-container">
+        <div class="column column-full-height">
+            <div class="card card-full-height">
+                <img src="./images/CardImg1.png" alt="Card 1 Image" class="card-image card-full-image">
+                <div class="card-content">
+                    <h2>Celebrating good news with your patients</h2>
+                    <p class="card-full">Fostering shared connection in patient care</p>
+                    <button class="button_slide slide_right">Learn more</button>
+                </div>
+            </div>
+        </div>
+        <div class="column">
+            <div class="card">
+                <img src="./images/CardImg2.png" alt="Card 2 Image" class="card-image">
+                <div class="card-content">
+                    <h2>Fostering shared connection in patient care</h2>
+                    <p></p>
+                    <button class="button_slide slide_right">Learn more</button>
+                </div>
+            </div>
+            <div class="card">
+                <img src="./images/CardImg3.png" alt="Card 3 Image" class="card-image">
+                <div class="card-content">
+                    <h2>Fostering shared connection in patient care</h2>
+                    <p></p>
+                    <button class="button_slide slide_right">Learn more</button>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const cards = document.querySelectorAll('.card');
+
+            const observer = new IntersectionObserver((entries, observer) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('card-visible');
+                        observer.unobserve(entry.target);
+                    }
+                });
+            }, { threshold: 0.1 });
+
+            cards.forEach(card => {
+                observer.observe(card);
+            });
+        });
+    </script>
+</body>
+
+ </html>

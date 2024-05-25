@@ -1,0 +1,389 @@
+@import url("https://p.typekit.net/p.css?s=1&k=svc0cnr&ht=tk&f=9785.9786.9787.9788.9789.9790.9791.9792.9793.9794&a=86745225&app=typekit&e=css");
+
+@font-face {
+font-family:"effra";
+src:url("https://use.typekit.net/af/5c84c3/00000000000000000001787b/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/5c84c3/00000000000000000001787b/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/5c84c3/00000000000000000001787b/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"effra";
+src:url("https://use.typekit.net/af/32bae8/00000000000000000001787c/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/32bae8/00000000000000000001787c/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/32bae8/00000000000000000001787c/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"effra";
+src:url("https://use.typekit.net/af/946b62/00000000000000000001787f/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/946b62/00000000000000000001787f/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/946b62/00000000000000000001787f/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"effra";
+src:url("https://use.typekit.net/af/64b320/000000000000000000017880/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/64b320/000000000000000000017880/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/64b320/000000000000000000017880/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"effra";
+src:url("https://use.typekit.net/af/d82207/000000000000000000017879/27/l?subset_id=2&fvd=n3&v=3") format("woff2"),url("https://use.typekit.net/af/d82207/000000000000000000017879/27/d?subset_id=2&fvd=n3&v=3") format("woff"),url("https://use.typekit.net/af/d82207/000000000000000000017879/27/a?subset_id=2&fvd=n3&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"effra";
+src:url("https://use.typekit.net/af/dc0f28/00000000000000000001787a/27/l?subset_id=2&fvd=i3&v=3") format("woff2"),url("https://use.typekit.net/af/dc0f28/00000000000000000001787a/27/d?subset_id=2&fvd=i3&v=3") format("woff"),url("https://use.typekit.net/af/dc0f28/00000000000000000001787a/27/a?subset_id=2&fvd=i3&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"effra";
+src:url("https://use.typekit.net/af/5ea570/00000000000000000001787d/27/l?subset_id=2&fvd=n5&v=3") format("woff2"),url("https://use.typekit.net/af/5ea570/00000000000000000001787d/27/d?subset_id=2&fvd=n5&v=3") format("woff"),url("https://use.typekit.net/af/5ea570/00000000000000000001787d/27/a?subset_id=2&fvd=n5&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"effra";
+src:url("https://use.typekit.net/af/9ead62/00000000000000000001787e/27/l?subset_id=2&fvd=i5&v=3") format("woff2"),url("https://use.typekit.net/af/9ead62/00000000000000000001787e/27/d?subset_id=2&fvd=i5&v=3") format("woff"),url("https://use.typekit.net/af/9ead62/00000000000000000001787e/27/a?subset_id=2&fvd=i5&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"effra";
+src:url("https://use.typekit.net/af/d3769f/000000000000000000017881/27/l?subset_id=2&fvd=n9&v=3") format("woff2"),url("https://use.typekit.net/af/d3769f/000000000000000000017881/27/d?subset_id=2&fvd=n9&v=3") format("woff"),url("https://use.typekit.net/af/d3769f/000000000000000000017881/27/a?subset_id=2&fvd=n9&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:900;font-stretch:normal;
+}
+
+@font-face {
+font-family:"effra";
+src:url("https://use.typekit.net/af/06ea21/000000000000000000017882/27/l?subset_id=2&fvd=i9&v=3") format("woff2"),url("https://use.typekit.net/af/06ea21/000000000000000000017882/27/d?subset_id=2&fvd=i9&v=3") format("woff"),url("https://use.typekit.net/af/06ea21/000000000000000000017882/27/a?subset_id=2&fvd=i9&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:900;font-stretch:normal;
+}
+
+.tk-effra { font-family: "effra",sans-serif; }
+
+@import url("https://p.typekit.net/p.css?s=1&k=yyn6exc&ht=tk&f=13378.13380.13382&a=86745184&app=typekit&e=css");
+
+@font-face {
+font-family:"utopia-std";
+src:url("https://use.typekit.net/af/9ff5df/0000000000000000000131a3/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/9ff5df/0000000000000000000131a3/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/9ff5df/0000000000000000000131a3/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"utopia-std";
+src:url("https://use.typekit.net/af/6ebf8d/0000000000000000000131a0/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/6ebf8d/0000000000000000000131a0/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/6ebf8d/0000000000000000000131a0/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"utopia-std";
+src:url("https://use.typekit.net/af/1d830d/0000000000000000000131a4/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("woff2"),url("https://use.typekit.net/af/1d830d/0000000000000000000131a4/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("woff"),url("https://use.typekit.net/af/1d830d/0000000000000000000131a4/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+
+
+
+
+.tk-utopia-std { font-family: "utopia-std",serif; }
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: utopia-std;
+  background-color: #F6F7FA;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px;
+  background-color: #ffffff;
+}
+
+.nav-links a {
+  color: #fff;
+}
+
+.logo {
+  font-size: 32px;
+}
+
+.menu {
+  display: flex;
+  gap: 1em;
+  font-size: 18px;
+}
+
+.menu li:hover {
+  background-color: #ffffff;
+  transition: 0.6s ease;
+  border-bottom: 2px solid #D80286;
+
+}
+
+.menu li {
+  padding: 5px 14px;
+
+}
+
+.menu a img:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+input[type=checkbox] {
+  display: none;
+}
+
+.hamburger {
+  display: none;
+  font-size: 24px;
+  user-select: none;
+}
+
+@media (max-width: 768px) {
+  .menu {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff;
+    z-index: 2;
+    text-align: center;
+    pointer-events: none;
+    margin-top: 50px;
+    border: 1px;
+
+}
+
+  .menu li {
+      display: block;
+      margin-top: 12px;
+  }
+
+  input[type=checkbox]:checked ~ .menu {
+    display: block;
+    pointer-events: auto;
+}
+
+  .hamburger {
+      display: block;
+      position: fixed;
+      top: 20px;
+      right: 20px;
+      z-index: 3;
+  }
+
+  .hero-image {
+      position: relative;
+      z-index: 1;
+  }
+}
+
+.hero {
+  position: relative;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  overflow: hidden;
+  box-sizing: border-box;
+  height: 478px;
+}
+
+.hero-image {
+  position: absolute;
+  width: 100%;
+  height: 478px;
+  object-fit: cover;
+  z-index: 1;
+
+}
+
+.hero-content {
+  position: relative;
+  z-index: 1;
+  text-align: right;
+  color: white;
+  margin-right: 20px;
+  padding-top: 150px;
+  padding: 30px;
+  line-height: 33px;
+}
+
+.hero h1 {
+  margin: 0;
+  font-size: 27px;
+  color: #00205B;
+  font: 27px, utopia-std, sans-serif;
+  font-weight: 600;
+
+}
+
+.hero p {
+  margin: 10px 0;
+  font-size: 17px;
+  color: #00205B;
+  font: 17px, effra, sans-serif;
+  letter-spacing: 0.5px;
+}
+
+.hero button {
+  padding: 10px 20px;
+  font-size: 15px;
+  background-color: #007EB4;
+  color: white;
+  border: none;
+  cursor: pointer;
+  height: 48px;
+}
+
+.hero button:hover {
+  background-color: #e65c00;
+}
+
+.card-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  padding: 20px;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.column-full-height {
+  height: 100%;
+}
+
+.card {
+  background-color: #ffffff;
+  border-radius: 4px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  width: 100%;
+  text-align: left;
+}
+
+.card-full-height {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 665px;
+}
+
+.card-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.card-full-image {
+  height: 500px;
+  object: cover;
+}
+
+.card-content {
+  padding: 15px;
+  color: #00205B;
+}
+
+.card-content h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+  font: 27px, utopia-std, sans-serif;
+  font-weight: 600;
+  line-height: 30px;
+
+
+}
+
+.card-content p {
+  font-size: 16px;
+  color: #00205B;
+  font: 17px, effra, sans-serif;
+  letter-spacing: 0.5px;
+
+
+}
+.card-full {
+  padding-bottom: 10px;
+}
+
+
+.card-content button {
+  padding: 10px 20px;
+  font-size: 15px;
+  background-color: #007EB4;
+  color: white;
+  border: none;
+  cursor: pointer;
+  radius: 4px;
+  height: 48px;
+  text-align: left;
+}
+
+
+.button_slide {
+  color: #FFF;
+  border: 2px solid rgb(216, 2, 134);
+  border-radius: 0px;
+  padding: 18px 36px;
+  display: inline-block;
+  font-size: 14px;
+  letter-spacing: 1px;
+  cursor: pointer;
+  box-shadow: inset 0 0 0 0 #D80286;
+  -webkit-transition: ease-out 0.4s;
+  -moz-transition: ease-out 0.4s;
+  transition: ease-out 0.4s;
+}
+
+
+.slide_right:hover {
+  box-shadow: inset 400px 0 0 0 #D80286;
+}
+
+@media (max-width: 768px) {
+  .card-container {
+      grid-template-columns: 1fr;
+  }
+
+  .card-full-height {
+      height: auto;
+  }
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+
+
+
+
+
+
